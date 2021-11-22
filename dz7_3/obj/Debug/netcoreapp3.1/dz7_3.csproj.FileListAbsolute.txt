@@ -1,0 +1,13 @@
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/bin/Debug/netcoreapp3.1/dz7_3.deps.json
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/bin/Debug/netcoreapp3.1/dz7_3.runtimeconfig.json
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/bin/Debug/netcoreapp3.1/dz7_3.runtimeconfig.dev.json
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/bin/Debug/netcoreapp3.1/dz7_3.dll
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/bin/Debug/netcoreapp3.1/dz7_3.pdb
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.csproj.AssemblyReference.cache
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.AssemblyInfoInputs.cache
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.AssemblyInfo.cs
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.csproj.CoreCompileInputs.cache
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.dll
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.pdb
+/Users/maxsavchuk/Projects/dz7_3/dz7_3/obj/Debug/netcoreapp3.1/dz7_3.genruntimeconfig.cache
